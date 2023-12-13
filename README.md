@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erhan</h1>
-<h3 align="center">Node.Js, Electon, Express.js ve MongoDB teknolojilerini kullanarak proje geliştiriyoum.</h3>
+<h3 align="center">Node.Js, Electon, Express.js ve MongoDB teknolojilerini kullanarak proje geliştiriyorum.</h3>
 
 - 📫 How to reach me **erhangyneus@gmail.com**
 
